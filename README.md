@@ -9,6 +9,6 @@
 	r, annual rate of interest
 ## Output ➡️
  	simple interest = p*t*r
-## GitHub Experience 🤓
+## GitHub Experience 🚧
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepper-mill)](https://github.com/anuraghazra/github-readme-stats)
