@@ -1,4 +1,6 @@
 # github-final-project
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepper-mill)](https://github.com/anuraghazra/github-readme-stats)
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
