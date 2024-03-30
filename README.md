@@ -1,5 +1,5 @@
 # github-final-project
-https://img.shields.io/badge/any_text-you_like-blue
+![GitHub License](https://img.shields.io/github/license/pepper-mill/github-final-project?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fpepper-mill%2Fgithub-final-project%2Fblob%2F2352bf3ba356e5754b6ae10954af12694bbef82f%2FLICENSE)
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
