@@ -10,6 +10,6 @@ A calculator that calculates simple interest given principal, annual rate of int
 	r, annual rate of interest
 ## Output➡️
  	simple interest = p*t*r
-## 🚧My GitHub Experience🚧
+## 🚧My GitHub Activity🚧
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepper-mill)](https://github.com/anuraghazra/github-readme-stats)
