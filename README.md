@@ -1,4 +1,5 @@
 # github-final-project
+https://img.shields.io/badge/any_text-you_like-blue
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
